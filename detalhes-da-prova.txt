@@ -1,0 +1,21 @@
+Pontuação: 
+01 - Valor da prova 120 pontos.
+02 - Redação 13 pontos dissertativa, 30 linhas.
+
+
+Prova Objetiva: 
+Valor : 1 ponto por questão
+Obs: -1 ponto por questão respondida incorrentamente
+Dividida em 3 Blocos:
+- Bloco I (60 questões questões):
+	.Lingua Portuguesa
+	.Noções Direito Administrativo
+	.Noções Direito Constitucional
+	.Noções Direito Penal e Direito Processual Penal
+	.Legislação Especial
+	.Estatística
+	.Raciocínio Lógico
+-Bloco II  (36 questões):
+	.Informática
+-Bloco III (24 questões):
+	.Contabilidade Geral
